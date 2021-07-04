@@ -1,7 +1,7 @@
 {
   "regions": ["iad1"],
   "functions": {
-    "api/**": {
+    "pages/src/api/**": {
       "memory": 3008
     }
   },
